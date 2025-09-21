@@ -1,13 +1,17 @@
 
-## ⚙️ Мой стек технологий
+## ⚙️ Мой стек
 
-- **Языки программирования**:
-  
-    - ![Java](https://img.shields.io/badge/Java-%23FF0000?style=flat&logo=java&logoColor=white) Java
+- **Основной язык программирования**:
+<p align="left">
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="65" height="36" style="margin-left: 255px;" />
+  </a>
+</p>
+
 - **Фреймворки**:
   
-    - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white) Spring Boot
-    - ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white) Spring Framework
+     ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white) 
+     ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white) 
 
 ## ⚙️ Инструменты:
 <p align="left">
