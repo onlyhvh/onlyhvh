@@ -22,7 +22,6 @@
 </p>
 
 ## 📊 Статистика:
-!(https://github-readme-stats.vercel.app/api?username=onlyhvh&show_icons=true&theme=white)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlyhvh&theme=default)
 
 ## 🏆 Статистика Codewars:
