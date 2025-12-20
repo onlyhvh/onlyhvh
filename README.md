@@ -1,6 +1,4 @@
 
-## ⚙️ Мой стек
-
 - **Основной язык программирования**:
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
